@@ -1,69 +1,46 @@
-<span>
-<p align="center">
+To fulfill your request, here is the full text content from the uploaded document, which details a Unity Android SDK assignment:
 
-![3D Game Shaders For Beginners](https://i.imgur.com/dlmGbRU.gif)
 
-</p>
-</span>
+CleverTap Unity SDK Assignment Candidate Name: Aaduru Anil Unity Version: 2022.3.26f1 (LTS) 
 
-# 3D Game Shaders For Beginners
 
-Interested in adding
-textures,
-lighting,
-shadows,
-normal maps,
-glowing objects,
-ambient occlusion,
-reflections,
-refractions,
-and more to your 3D game?
-Great!
-Below is a collection of shading techniques that will take your game visuals to new heights.
-I've explained each technique in such a way that you can take what you learn here and apply/port it to
-whatever stack you use—be it Godot, Unity, Unreal, or something else.
-For the glue in between the shaders,
-I've chosen the fabulous Panda3D game engine and the OpenGL Shading Language (GLSL).
-So if that is your stack, then you'll also get the benefit of learning how to use these
-shading techniques with Panda3D and OpenGL specifically.
 
-## Table Of Contents
+Overview: This assignment demonstrates the creation of a reusable Unity Android SDK and its usage inside a Unity Weather application. 
 
-- [Setup](sections/setup.md)
-- [Building The Demo](sections/building-the-demo.md)
-- [Running The Demo](sections/running-the-demo.md)
-- [Reference Frames](sections/reference-frames.md)
-- [GLSL](sections/glsl.md)
-- [Render To Texture](sections/render-to-texture.md)
-- [Texturing](sections/texturing.md)
-- [Lighting](sections/lighting.md)
-- [Cel Shading](sections/cel-shading.md)
-- [Normal Mapping](sections/normal-mapping.md)
-- [Deferred Rendering](sections/deferred-rendering.md)
-- [Fog](sections/fog.md)
-- [Blur](sections/blur.md)
-- [Bloom](sections/bloom.md)
-- [SSAO](sections/ssao.md)
-- [Screen Space Reflection](sections/screen-space-reflection.md)
-- [Screen Space Refraction](sections/screen-space-refraction.md)
-- [Foam](sections/foam.md)
-- [Flow Mapping](sections/flow-mapping.md)
-- [Outlining](sections/outlining.md)
-- [Depth Of Field](sections/depth-of-field.md)
-- [Posterization](sections/posterization.md)
-- [Pixelization](sections/pixelization.md)
-- [Sharpen](sections/sharpen.md)
-- [Dilation](sections/dilation.md)
-- [Film Grain](sections/film-grain.md)
-- [Lookup Table (LUT)](sections/lookup-table.md)
-- [Gamma Correction](sections/gamma-correction.md)
+Projects:
 
-## Attributions
 
-- [Kiwi Soda Font](https://fontenddev.com/fonts/kiwi-soda/)
+CleverToastSDK – Unity Android SDK packaged as a Unity Package 
 
-## Copyright
 
-(C) 2019 David Lettier
-<br>
-[lettier.com](https://www.lettier.com)
+CleverWeatherApp – Unity Android application consuming the SDK 
+
+SDK Features:
+
+Native Android Toast via Java Bridge 
+
+Reusable Unity Package 
+
+Editor-safe logging 
+
+Exposed as Prefab GameObject 
+
+Unit test included 
+
+App Features:
+
+Android location permission handling 
+
+GPS-based weather fetching 
+
+Weather displayed using SDK Toast 
+
+Architecture:
+
+SDK packaged under com.clevertap.androidtoast 
+
+Imported via Unity Package Manager 
+
+App consumes SDK without modifying SDK code 
+
+Interview Summary: "I designed a reusable Unity Android SDK as a Unity Package and consumed it inside a Weather application to demonstrate real-world usage."
