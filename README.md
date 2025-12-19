@@ -40,4 +40,3 @@ Imported via Unity Package Manager
 
 App consumes SDK without modifying SDK code 
 
-Interview Summary: "I designed a reusable Unity Android SDK as a Unity Package and consumed it inside a Weather application to demonstrate real-world usage."
