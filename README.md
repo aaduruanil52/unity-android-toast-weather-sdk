@@ -1,6 +1,3 @@
-To fulfill your request, here is the full text content from the uploaded document, which details a Unity Android SDK assignment:
-
-
 CleverTap Unity SDK Assignment Candidate Name: Aaduru Anil Unity Version: 2022.3.26f1 (LTS) 
 
 
